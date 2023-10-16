@@ -1,0 +1,28 @@
+# Arquivos de compilação
+*.class
+
+# Diretórios de saída de compilação
+bin/
+target/
+
+# Arquivos de configuração do IDE (por exemplo, IntelliJ IDEA ou Eclipse)
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+settings.json
+
+# Arquivos de log e dados temporários
+*.log
+*.log.*
+hs_err_pid*
+
+# Dependências geradas pelo Maven (se estiver usando o Maven)
+/target/
+/.m2/
+
+# Dependências geradas pelo Gradle (se estiver usando o Gradle)
+/build/
+.gradle/
